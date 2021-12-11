@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Zmiana 3
+=======
+1
+2
+>>>>>>> prostawersja
