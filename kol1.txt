@@ -4,3 +4,5 @@ Zmiana 3
 1
 2
 >>>>>>> prostawersja
+5654645
+sadasdasd
